@@ -1,0 +1,3 @@
+# **BLADE BALL : AUTO PARRY AUTO SPAM** 
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Avorrietz/Ghostobfuscate/refs/heads/main/SGC"))()
